@@ -1,0 +1,25 @@
+body{
+    background-image: url("BEAVERJESSE.jpeg");
+}
+h3{
+    background-color:palegreen;
+}
+.beaver{
+    float:left;
+}
+#dog{
+    width: 200px;
+    margin-top:3px;
+}
+.jesse{
+    float:right;
+}
+#cat{
+    width: 200px;
+}
+#emoji{
+    font-size:20px;
+}
+canvas{
+    border:5px dotted orange
+}
